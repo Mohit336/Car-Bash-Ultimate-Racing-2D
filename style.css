@@ -1,0 +1,65 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas{
+  border: 2px solid black;
+}
+.customButton { width:200px; height:60px; background-color: #fea834; 
+  border: none;
+   color: #000; 
+   font-weight:bold; 
+   padding: 15px 32px;
+    border-radius: 15px;
+     margin-bottom:100px;
+      text-align: center; 
+      text-decoration: none;
+       display: inline-block;
+        font-size: 16px; margin: 4px 2px;
+         cursor: pointer; -webkit-transition-duration: 0.4s; 
+         /* Safari */ transition-duration: 0.4s; }
+
+         .customButton { width:200px; height:60px; background-color: #fea834; 
+          border: none;
+           color: #000; 
+           font-weight:bold; 
+           padding: 15px 32px;
+            border-radius: 15px;
+             margin-bottom:100px;
+              text-align: center; 
+              text-decoration: none;
+               display: inline-block;
+                font-size: 16px; margin: 4px 2px;
+                 cursor: pointer; -webkit-transition-duration: 0.4s; 
+                 /* Safari */ transition-duration: 0.4s; }
+
+
+
+
+                 .customButton { width:200px; height:60px; background-color: #fea834; 
+                  border: none;
+                   color: #000; 
+                   font-weight:bold; 
+                   padding: 15px 32px;
+                    border-radius: 15px;
+                     margin-bottom:100px;
+                      text-align: center; 
+                      text-decoration: none;
+                       display: inline-block;
+                        font-size: 16px; margin: 4px 2px;
+                         cursor: pointer; -webkit-transition-duration: 0.4s; 
+                         /* Safari */ transition-duration: 0.4s; }
+
+                         h1{
+                          color: gold;
+                          text-align: center;
+                          font-size: 50px;
+                         
+                         }
+
+
+                         h2{
+                           color: gold;
+                           text-align: center;
+                           font-size: 70px;
+                         }

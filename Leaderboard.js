@@ -1,0 +1,15 @@
+class Leaderboard{
+    constructor(){
+
+    }
+
+    hide(){
+     
+
+    }
+
+    
+
+    
+}
+
